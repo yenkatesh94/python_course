@@ -1,0 +1,11 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local gradebook data
+projects/student_gradebook/students.json

@@ -1,0 +1,68 @@
+Here’s a practical Python topic list, ordered from beginner to advanced. You can make one `.py` file per topic and include one example in each.
+
+All lesson files are inside the `full course` folder. Run a lesson from that
+folder, for example: `python 01_variables.py`. Project files remain in `projects`.
+
+### Beginner
+1. Variables and data types — `full course/01_variables.py`
+2. Input and output — `full course/02_input_output.py`
+3. Type conversion — `full course/03_type_conversion.py`
+4. Operators — `full course/04_operators.py`
+5. Conditional statements (`if`, `elif`, `else`) — `full course/05_conditional_statements.py`
+6. `for` and `while` loops — `full course/06_loops.py`
+7. Strings and string methods — `full course/07_strings.py`
+8. Lists and list methods — `full course/08_lists.py`
+9. Tuples — `full course/09_tuples.py`
+10. Sets — `full course/10_sets.py`
+11. Dictionaries — `full course/11_dictionaries.py`
+12. Comprehensions (list, set, dictionary, generator) — `full course/12_list_comprehensions.py`
+
+### Functions and organization
+13. Functions and parameters — `full course/13_functions.py`
+14. Return values and scope — `full course/14_return_values_scope.py`
+15. Lambda functions — `full course/15_lambda_functions.py`
+16. Modules and imports — `full course/16_modules_imports.py` and `full course/message_tools.py`
+17. Packages and `pip` — `full course/17_packages_pip.py` and `full course/school_tools`
+
+### Object-oriented programming
+18. Classes and objects — `full course/18_classes_objects.py`
+19. Encapsulation — `full course/19_encapsulation.py`
+20. Inheritance — `full course/20_inheritance.py`
+21. Polymorphism — `full course/21_polymorphism.py`
+22. Abstraction — `full course/22_abstraction.py`
+23. Class methods and static methods — `full course/23_class_static_methods.py`
+24. Properties and special methods — `full course/24_properties_special_methods.py`
+
+### Practical Python
+25. Exception handling — `full course/25_exception_handling.py`
+26. File handling — `full course/26_file_handling.py`
+27. Working with JSON — `full course/27_json_example.py`
+28. Dates and times — `full course/28_dates_and_times.py`
+29. Iterators and generators — `full course/29_iterators_generators.py`
+30. Regular expressions — `full course/30_regular_expressions.py`
+31. Virtual environments — `full course/31_virtual_environments.py`
+32. Testing with `unittest` or `pytest` — `full course/32_testing.py`
+33. Working with APIs — `full course/33_apis.py`
+34. SQLite and databases — `full course/34_sqlite_databases.py`
+35. Logging — `full course/35_logging.py`
+36. Type hints — `full course/36_type_hints.py`
+37. `map()` and `filter()` — `full course/37_map_filter.py`
+38. `enumerate()` and `zip()` — `full course/38_enumerate_zip.py`
+39. `any()` and `all()` — `full course/39_any_all.py`
+
+### More Python topics to learn
+40. Unpacking and starred expressions (`*` and `**`) — `full course/40_unpacking.py`
+41. Mutable vs. immutable objects and copying — `full course/41_mutability_copying.py`
+42. Loop control (`break`, `continue`, `pass`) and `match` — `full course/42_loop_control_match.py`
+43. Closures and decorators — `full course/43_closures_decorators.py`
+44. Context managers and the `with` statement — `full course/44_context_managers.py`
+45. Standard library (`collections`, `itertools`, `functools`, `random`) — `full course/45_standard_library.py`
+46. Paths and folders with `pathlib` — `full course/46_pathlib.py`
+47. CSV files — `full course/47_csv.py`
+48. Command-line arguments with `argparse` — `full course/48_argparse.py`
+49. Environment variables — `full course/49_environment_variables.py`
+50. Dataclasses and enums — `full course/50_dataclasses_enums.py`
+51. Debugging and code style (PEP 8) — `full course/51_debugging_style.py`
+52. Concurrency (threads, processes, and `async`/`await`) — `full course/52_concurrency.py`
+
+The list is a learning roadmap, not an exhaustive list of every Python feature or third-party library.
