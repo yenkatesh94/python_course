@@ -3,17 +3,19 @@ This example uses a bank account to discuss why public attributes can be changed
 """
 
 class Bank:
+
     def __init__(self):
-        self.balance = 1000
+        self.__balance = 1000
 
     def show_balance(self):
-        print(self.balance)
+        print("Balance:", self.__balance)
 
     def deposit(self, amount):
-        self.balance += amount
+        self.__balance += amount
+
 
 b = Bank()
 
-b.balance = 0
 b.show_balance()
-# Topic 19: Encapsulation
+b.deposit(500)
+b.show_balance()
